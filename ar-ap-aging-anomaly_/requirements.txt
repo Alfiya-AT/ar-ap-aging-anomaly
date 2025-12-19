@@ -1,6 +1,0 @@
-pandas
-numpy
-faker
-scikit-learn
-streamlit
-plotly
