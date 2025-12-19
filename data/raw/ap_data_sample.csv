@@ -1,0 +1,211 @@
+invoice_id,entity_name,invoice_date,due_date,amount,currency,type,status
+a3d70628," Mcclain, Miller and Henderson ",2025-09-09,2025-11-08,44030.1,USD,AP,Disputed
+d7c524a5,Davis and Sons,2025-10-19,2026-01-17,49199.84,USD,AP,Open
+0837b8a3,"Guzman, Hoffman and Baldwin",2025-11-03,2025-11-03,44766.22,USD,AP,Open
+3602f8ac,"Mcclain, Miller and Henderson",2025-11-09,2026-01-08,6813.02,USD,AP,Paid
+508ebad7,Dudley Group,2025-11-29,2026-01-13,21002.68,USD,AP,Paid
+ea1fca65,Blair PLC,2025-07-26,2025-07-26,47328.8,USD,AP,Disputed
+3f22faf8,Blair PLC,2025-10-11,2025-11-25,46279.77,USD,AP,Open
+95a76d79, James Group ,2025-10-30,2025-11-14,21484.82,USD,AP,Open
+382567b8,Davis and Sons,2025-09-03,2025-09-18,24550.02,USD,AP,Open
+1745d6d8,Abbott-Munoz,2025-12-14,2026-01-13,7027.54,USD,AP,Open
+a0a04dc4,ARNOLD LTD,2025-11-01,2025-11-01,9356.23,USD,AP,Open
+10435a10,"Guzman, Hoffman and Baldwin",2025-07-16,2025-07-16,17197.43,USD,AP,Open
+877409a9,Abbott-Munoz,2025-08-26,2025-11-24,37627.57,USD,AP,Paid
+02f06b90,"Reid, Ferguson and Sanchez",2025-08-02,2025-10-01,17968.53,USD,AP,Open
+8976e334,Garcia-James,2025-10-18,2026-01-16,31796.52,USD,AP,Open
+1c8eaee9,Arnold Ltd,2025-10-31,2025-11-15,26522.29,USD,AP,Open
+f42d47cc,"Mcclain, Miller and Henderson",2025-08-09,2025-09-08,49540.89,USD,AP,Paid
+8026695f," Gardner, Robinson and Lawrence ",2025-10-25,2026-01-23,22960.77,GBP,AP,Paid
+deda4e16,"Rodriguez, Figueroa and Sanchez",2025-11-02,2025-12-02,41264.77,USD,AP,Open
+9be578c7,Doyle Ltd,2025-10-08,2025-11-07,37993.83,USD,AP,Open
+8a14be62,Galloway-Wyatt,2025-07-23,2025-08-22,40428.1,USD,AP,Open
+00257ad1,"Gardner, Robinson and Lawrence",2025-12-06,2025-12-06,28738.95,USD,AP,Paid
+edd96831,Blair PLC,2025-10-03,2026-01-01,29841.49,USD,AP,Open
+4eb93eff,Davis and Sons,2025-08-22,2025-09-06,35490.75,USD,AP,Open
+f26b4776,Arnold Ltd,2025-07-31,,4972.53,USD,AP,Open
+11b7e948,Doyle Ltd,2025-07-02,2025-09-30,12780.55,GBP,AP,Paid
+20de435d,"Adams, Zuniga and Wong",2025-12-11,2026-01-10,2993.3,EUR,AP,Paid
+43dac043,Dudley Group,2025-10-14,2025-11-28,3762.48,USD,AP,Paid
+36386821,James Group,2025-09-20,2025-10-05,10894.37,USD,AP,Open
+337ea2df,"Reid, Ferguson and Sanchez",2025-12-02,,3694.46,USD,AP,Open
+a65e688e,Doyle Ltd,2025-10-24,2025-12-08,44800.33,USD,AP,Open
+1efa2197,"Mcclain, Miller and Henderson",2025-08-24,2025-09-08,48664.87,USD,AP,Open
+969b6662,"Gardner, Robinson and Lawrence",2025-08-01,2025-08-31,26036.66,USD,AP,Open
+122c9a56,"Flowers, Martin and Kelly",2025-09-25,2025-09-25,6294.15,USD,AP,Paid
+e7c99b26,Williams and Sons,2025-10-23,2025-11-07,7077.38,USD,AP,Disputed
+3ceddf2d,"Flowers, Martin and Kelly",2025-06-23,2025-07-23,38215.04,USD,AP,Open
+21df306f,Blake and Sons,2025-08-07,2025-11-05,9335.81,USD,AP,Paid
+7900f7f9,Abbott-Munoz,2025-10-26,2026-01-24,43868.13,USD,AP,Paid
+30beb45f,Garcia-James,2025-07-31,2025-07-31,20906.95,USD,AP,Open
+6c6fa611,"Adams, Zuniga and Wong",2025-07-04,2025-07-19,11325.78,USD,AP,Open
+ac619e63,Abbott-Munoz,2025-08-30,2025-10-14,6464.99,USD,AP,Open
+6712303a,"Gardner, Robinson and Lawrence",2025-10-13,2025-10-13,32651.26,USD,AP,Open
+3fa7f104,"Mcclain, Miller and Henderson",2025-10-27,2026-01-25,43574.93,USD,AP,Open
+6c006f61,Blair PLC,2025-07-22,2025-07-22,31929.36,USD,AP,Open
+ec5b227c,Doyle Ltd,2025-07-21,2025-10-19,49357.24,USD,AP,Open
+8ce21ea3,James Group,2025-07-01,2025-09-29,273.21,USD,AP,Paid
+d605e770,James Group,2025-07-05,2025-07-20,24675.73,USD,AP,Open
+d9441fa5,"Reid, Ferguson and Sanchez",2025-06-20,,45784.27,USD,AP,Open
+36b82481,Blair PLC,2025-07-30,2025-10-28,1283.77,USD,AP,Open
+610461e3,James Group,2025-11-20,2025-11-20,21735.76,USD,AP,Open
+c8b8d9c6,James Group,2025-06-18,2025-09-16,26069.4,USD,AP,Open
+f512c4c3,"Henderson, Ramirez and Lewis",2025-11-06,2026-02-04,19544.45,USD,AP,Open
+b7e99aca,"Henderson, Ramirez and Lewis",2025-10-27,2025-12-26,1347.96,EUR,AP,Open
+f7fd5646,Galloway-Wyatt,2025-09-13,2025-09-28,32237.55,USD,AP,Paid
+bf7b539b,"Adams, Zuniga and Wong",2025-06-28,2025-08-27,34751.13,USD,AP,Open
+80bacd64,Garcia-James,2025-08-13,2025-11-11,5261.08,USD,AP,Open
+f5f59b22,Arnold Ltd,2025-11-30,2026-01-29,36422.57,EUR,AP,Paid
+98543881,Blair PLC,2025-09-17,2025-11-16,10867.13,USD,AP,Paid
+1eb0e38a,"Adams, Zuniga and Wong",2025-06-30,2025-09-28,13036.9,USD,AP,Open
+98326856,"Guzman, Hoffman and Baldwin",2025-12-04,2026-03-04,8481.47,USD,AP,Open
+956b8c0c,Galloway-Wyatt,2025-06-25,2025-09-23,17511.17,USD,AP,Paid
+344a54b8,Blake and Sons,2025-09-27,2025-11-11,32439.81,USD,AP,Open
+655238a6,Garcia-James,2025-10-16,2025-10-16,34578.83,USD,AP,Open
+50f0fd0a,"Reid, Ferguson and Sanchez",2025-07-11,,1763.55,USD,AP,Paid
+75523327,Abbott-Munoz,2025-12-02,2025-12-02,46382.43,USD,AP,Open
+12c136e0,"Mcclure, Ward and Lee",2025-10-07,2025-12-06,46871.96,USD,AP,Open
+eeea163e,"HENDERSON, RAMIREZ AND LEWIS",2025-09-22,2025-12-21,16151.64,USD,AP,Open
+5e9953d2,"Henderson, Ramirez and Lewis",2025-08-19,2025-10-03,5728.33,EUR,AP,Open
+b41b3143,Doyle Ltd,2025-08-08,2025-09-22,17584.91,USD,AP,Paid
+a76afde6,Abbott-Munoz,2025-08-11,2025-11-09,20438.83,USD,AP,Disputed
+4ca415ea,Blair PLC,2025-09-21,2025-12-20,46236.74,GBP,AP,Open
+2260e70f,"Rodriguez, Figueroa and Sanchez",2025-12-02,2026-01-31,24732.98,USD,AP,Open
+8da01097,Galloway-Wyatt,2025-08-04,2025-08-19,27653.94,USD,AP,Open
+b7b56ea7,"Reid, Ferguson and Sanchez",2025-07-15,2025-08-14,17144.45,USD,AP,Open
+439472e6,"Mcclain, Miller and Henderson",2025-08-18,2025-09-17,16617.06,USD,AP,Open
+d89a40c0,Davis and Sons,2025-09-16,2025-10-16,42138.44,EUR,AP,Open
+46d483f3,James Group,2025-06-27,2025-09-25,14837.24,USD,AP,Open
+a319dcb4,Arnold Ltd,2025-06-25,2025-09-23,48168.02,GBP,AP,Open
+8d3aed99,"Flowers, Martin and Kelly",2025-12-11,2026-02-09,19699.81,USD,AP,Paid
+13432e61,"Guzman, Hoffman and Baldwin",2025-10-23,2025-11-22,32777.02,USD,AP,Paid
+8babce3b,Blake and Sons,2025-12-05,2025-12-20,5011.07,USD,AP,Open
+25e97977,"Adams, Zuniga and Wong",2025-06-24,2025-07-09,27138.38,USD,AP,Open
+e623a689,Davis and Sons,2025-09-03,2025-11-02,23670.28,USD,AP,Paid
+e61fecc0,"Mcclure, Ward and Lee",2025-12-02,2026-01-16,11615.41,USD,AP,Open
+1a50aec3,"Adams, Zuniga and Wong",2025-08-21,2025-10-20,13666.33,USD,AP,Open
+6808593f,Arnold Ltd,2025-08-20,2025-10-19,13930.75,USD,AP,Open
+ee0caeb5,"Rodriguez, Figueroa and Sanchez",2025-12-10,,33426.6,USD,AP,Open
+cf8ebc5a,Galloway-Wyatt,2025-07-30,2025-10-28,28635.7,USD,AP,Open
+bc8f7d29,"Mcclure, Ward and Lee",2025-07-19,2025-08-18,45176.53,USD,AP,Open
+cd5f4822,Williams and Sons,2025-12-01,2025-12-31,31423.81,EUR,AP,Open
+444d610b,Abbott-Munoz,2025-10-16,2025-10-16,24671.47,USD,AP,Open
+df465290,"Rodriguez, Figueroa and Sanchez",2025-07-16,2025-07-16,37609.5,EUR,AP,Paid
+d10bd1d0,Arnold Ltd,2025-06-24,2025-09-22,40819.04,USD,AP,Open
+cb9bc326,Dudley Group,2025-11-30,2025-12-30,2248.36,USD,AP,Open
+3170f437,"Flowers, Martin and Kelly",2025-11-21,2026-01-20,30193.72,USD,AP,Open
+f7860b50,Garcia-James,2025-08-28,2025-09-12,37372.47,USD,AP,Paid
+6651529e," Flowers, Martin and Kelly ",2025-11-04,2025-11-04,2900.72,EUR,AP,Open
+f071d879,Davis and Sons,2025-10-18,2025-10-18,16973.57,USD,AP,Open
+2db69edb,"Guzman, Hoffman and Baldwin",2025-06-22,2025-08-06,30927.99,USD,AP,Paid
+1bc044fc,Doyle Ltd,2025-09-30,2025-11-29,11440.26,USD,AP,Paid
+504d281f,Garcia-James,2025-10-03,2025-11-02,5538.22,USD,AP,Open
+629c2ae3,"MCCLURE, WARD AND LEE",2025-09-04,,36556.64,USD,AP,Paid
+b572f3d0, Abbott-Munoz ,2025-11-26,2026-02-24,3285.51,USD,AP,Open
+89d7fd6c,Williams and Sons,2025-09-04,2025-10-04,7085.57,USD,AP,Open
+abae4f43,"Flowers, Martin and Kelly",2025-10-19,2025-10-19,46699.9,USD,AP,Open
+aa0b7b14, Blair PLC ,2025-07-23,2025-10-21,41538.68,USD,AP,Open
+d9178793,Davis and Sons,2025-11-30,2026-02-28,22126.97,USD,AP,Open
+4f2d4796,Blair PLC,2025-07-10,2025-07-25,742.91,USD,AP,Open
+4bb00f20,James Group,2025-10-16,2025-10-31,23821.2,USD,AP,Paid
+f0bbac67,"Reid, Ferguson and Sanchez",2025-09-25,2025-10-25,21656.05,USD,AP,Paid
+9d9262af,Dudley Group,2025-08-25,2025-08-25,49592.46,USD,AP,Open
+001a9a8b,"Guzman, Hoffman and Baldwin",2025-09-28,2025-10-28,29442.57,USD,AP,Open
+9479e1e6,Williams and Sons,2025-08-11,2025-08-26,48702.93,USD,AP,Open
+71316269,"Guzman, Hoffman and Baldwin",2025-10-05,2025-10-05,31353.37,GBP,AP,Open
+e6b3c944,James Group,2025-10-17,2025-11-16,21764.79,USD,AP,Open
+15b52908,Abbott-Munoz,2025-12-07,2025-12-07,43702.37,USD,AP,Open
+55cee5db,Galloway-Wyatt,2025-08-08,2025-09-22,17108.79,USD,AP,Open
+ac3c5640,GARCIA-JAMES,2025-07-04,2025-09-02,6560.55,USD,AP,Paid
+0640be0f,Dudley Group,2025-08-12,2025-08-12,17114.4,USD,AP,Open
+d98868dd,"Henderson, Ramirez and Lewis",2025-06-26,2025-09-24,8919.86,USD,AP,Open
+a1384ddc,Davis and Sons,2025-11-03,2025-12-18,24623.77,EUR,AP,Disputed
+7e8f8095,"Reid, Ferguson and Sanchez",2025-09-29,2025-10-14,3674.08,EUR,AP,Open
+016b6287,"Rodriguez, Figueroa and Sanchez",2025-08-28,2025-08-28,38968.49,USD,AP,Paid
+1b494e15,Garcia-James,2025-11-25,,38217.4,USD,AP,Disputed
+f53d4330,"Adams, Zuniga and Wong",2025-11-05,2026-02-03,14518.36,GBP,AP,Paid
+3fcb7546,Galloway-Wyatt,2025-10-21,2025-11-05,23139.01,USD,AP,Open
+cd29a36f,"Rodriguez, Figueroa and Sanchez",2025-11-30,2026-01-29,7870.16,USD,AP,Open
+986f9025,Blair PLC,2025-09-09,2025-10-24,19535.99,USD,AP,Open
+9cd6c852,"Rodriguez, Figueroa and Sanchez",2025-08-14,2025-10-13,28432.2,EUR,AP,Open
+d4a02e53,"GARDNER, ROBINSON AND LAWRENCE",2025-11-11,2025-12-26,33998.71,USD,AP,Open
+be6033f7,"Henderson, Ramirez and Lewis",2025-11-28,2025-12-28,13434.42,USD,AP,Disputed
+3f4b1a70,"Rodriguez, Figueroa and Sanchez",2025-11-20,2025-11-20,28538.2,USD,AP,Open
+8573e793,Davis and Sons,2025-11-16,,41633.72,USD,AP,Paid
+13d5f2f7,Abbott-Munoz,2025-09-13,2025-10-13,1049.61,USD,AP,Paid
+51d87c64,Abbott-Munoz,2025-10-24,2025-11-23,31988.82,USD,AP,Open
+3b33f3d8,Galloway-Wyatt,2025-11-25,2026-01-09,8289.77,USD,AP,Paid
+10714d51,Abbott-Munoz,2025-08-25,2025-10-24,9220.21,USD,AP,Paid
+6a702e2f,"Adams, Zuniga and Wong",2025-08-31,2025-11-29,7900.23,USD,AP,Open
+e7a37e81,"Mcclain, Miller and Henderson",2025-06-29,2025-09-27,47614.08,USD,AP,Open
+db52ca58,Williams and Sons,2025-11-03,2025-11-03,29135.88,USD,AP,Paid
+018267c4,"Reid, Ferguson and Sanchez",2025-11-23,2026-02-21,16816.49,USD,AP,Open
+da7b9095,Garcia-James,2025-12-04,2026-01-18,37248.38,USD,AP,Open
+bf5d2fdf,"Guzman, Hoffman and Baldwin",2025-11-25,2026-02-23,15794.4,USD,AP,Open
+3875394c,Davis and Sons,2025-10-28,2025-12-27,34973.4,USD,AP,Open
+076e2bba,"Reid, Ferguson and Sanchez",2025-09-13,2025-12-12,28245.28,USD,AP,Open
+67814c1f,"Rodriguez, Figueroa and Sanchez",2025-08-26,2025-08-26,35384.06,USD,AP,Open
+20ac3703,Arnold Ltd,2025-10-26,2025-12-25,36302.69,USD,AP,Open
+64de82e6,"Henderson, Ramirez and Lewis",2025-12-11,2025-12-26,44542.14,USD,AP,Open
+a48b3dbe,Blair PLC,2025-10-02,,30753.98,USD,AP,Open
+0cdf742b,"Guzman, Hoffman and Baldwin",2025-09-03,2025-10-03,21439.99,USD,AP,Open
+53ac2ab9,James Group,2025-08-03,2025-08-03,8319.12,USD,AP,Open
+c083b73a,"Flowers, Martin and Kelly",2025-08-17,2025-09-16,13438.52,USD,AP,Open
+14f7ce8d,"Gardner, Robinson and Lawrence",2025-12-06,2025-12-06,31946.19,USD,AP,Disputed
+fff9f585,Doyle Ltd,2025-09-10,2025-11-09,12914.21,USD,AP,Open
+c7fee39f,Williams and Sons,2025-12-06,2026-02-04,20891.47,USD,AP,Open
+f319c125,Blair PLC,2025-12-07,2026-01-06,13310.79,USD,AP,Open
+2702878b,"Guzman, Hoffman and Baldwin",2025-08-01,2025-09-30,17014.46,USD,AP,Disputed
+90604f62,"Gardner, Robinson and Lawrence",2025-07-30,2025-08-29,11770.25,USD,AP,Open
+c4536f1d,"Mcclure, Ward and Lee",2025-12-05,2026-01-04,32728.67,USD,AP,Open
+bf780e3f,Dudley Group,2025-08-23,2025-11-21,18412.63,USD,AP,Open
+f6f7f0cc,"Adams, Zuniga and Wong",2025-10-25,2025-10-25,25744.98,USD,AP,Paid
+4fdc6e1b,"Rodriguez, Figueroa and Sanchez",2025-08-12,2025-08-12,28597.17,USD,AP,Open
+658b2523,"Gardner, Robinson and Lawrence",2025-09-29,2025-12-28,16841.76,GBP,AP,Paid
+b0cc1b3b,Doyle Ltd,2025-12-04,2026-02-02,14312.38,USD,AP,Open
+c5c14eb4,"Rodriguez, Figueroa and Sanchez",2025-11-14,2026-02-12,12691.14,USD,AP,Open
+1efd76e9,Blake and Sons,2025-08-11,2025-08-26,6197.26,USD,AP,Paid
+58e25888,Blair PLC,2025-11-08,2025-12-08,7683.25,USD,AP,Open
+8186a576," Reid, Ferguson and Sanchez ",2025-09-21,2025-11-05,15141.97,USD,AP,Open
+d284476c,Davis and Sons,2025-10-12,2025-10-12,8238.61,USD,AP,Paid
+a2b5b498,"Mcclain, Miller and Henderson",2025-09-14,2025-09-29,19657.19,USD,AP,Open
+6f7c15ea,GARCIA-JAMES,2025-11-25,2026-02-23,9059.35,USD,AP,Open
+45241ea6,"Adams, Zuniga and Wong",2025-07-19,2025-08-18,553.65,USD,AP,Open
+7bc67e1f,ABBOTT-MUNOZ,2025-10-06,2025-11-05,35655.12,USD,AP,Open
+44b591f7,Williams and Sons,2025-09-09,2025-10-24,41714.5,USD,AP,Open
+162f8a24, Doyle Ltd ,2025-08-15,2025-08-15,21096.89,USD,AP,Open
+76f72255,James Group,2025-08-07,2025-11-05,16012.67,USD,AP,Paid
+0758e201,DAVIS AND SONS,2025-09-28,,17366.52,USD,AP,Open
+364d7c87,Galloway-Wyatt,2025-09-14,2025-10-14,13984.49,USD,AP,Open
+e15ca666,Abbott-Munoz,2025-08-20,2025-10-04,6358.05,USD,AP,Open
+0299436a,BLAIR PLC,2025-10-03,2025-10-03,40694.21,EUR,AP,Open
+b856d035,"Flowers, Martin and Kelly",2025-09-18,2025-09-18,4292.15,USD,AP,Open
+b0cbc61f,Abbott-Munoz,2025-08-30,2025-11-28,21775.16,USD,AP,Open
+cafda613,Dudley Group,2025-09-11,2025-09-11,29694.43,EUR,AP,Open
+b118f68d,"Flowers, Martin and Kelly",2025-06-21,2025-07-06,10637.13,GBP,AP,Paid
+79279973,Arnold Ltd,2025-07-31,2025-08-15,35791.01,USD,AP,Open
+bef59fe6,Arnold Ltd,2025-09-25,2025-10-25,46475.98,USD,AP,Open
+455ac762,"Mcclure, Ward and Lee",2025-09-25,2025-12-24,40969.81,USD,AP,Open
+314d3441,Abbott-Munoz,2025-08-12,2025-11-10,1997.65,USD,AP,Open
+c31edbbc,Blair PLC,2025-08-13,2025-11-11,40467.47,USD,AP,Open
+7bf47042,"Reid, Ferguson and Sanchez",2025-10-20,2025-12-19,21609.46,USD,AP,Open
+864e9a13," Flowers, Martin and Kelly ",2025-08-06,2025-09-20,15393.72,USD,AP,Open
+31b1b099,Abbott-Munoz,2025-10-03,2026-01-01,28818.67,USD,AP,Paid
+039f3a25,"Guzman, Hoffman and Baldwin",2025-08-10,2025-11-08,22627.88,USD,AP,Paid
+f96b648a,Dudley Group,2025-10-23,2026-01-21,38503.85,USD,AP,Open
+2053da42,"Henderson, Ramirez and Lewis",2025-06-27,2025-07-27,657.44,USD,AP,Paid
+df6a8f93,"Gardner, Robinson and Lawrence",2025-10-10,2026-01-08,7170.98,GBP,AP,Open
+70c2903f,"Mcclure, Ward and Lee",2025-06-20,2025-09-18,10275.57,USD,AP,Paid
+f0e98b3b,"Flowers, Martin and Kelly",2025-08-18,2025-08-18,48817.79,USD,AP,Paid
+6694c343, Williams and Sons ,2025-11-20,2026-02-18,48260.51,USD,AP,Open
+0db95301,"Henderson, Ramirez and Lewis",2025-09-14,2025-12-13,9473.05,USD,AP,Paid
+89d7fd6c,Williams and Sons,2025-09-04,2025-10-04,7085.57,USD,AP,Open
+122c9a56,"Flowers, Martin and Kelly",2025-09-25,2025-09-25,6294.15,USD,AP,Paid
+c31edbbc,Blair PLC,2025-08-13,2025-11-11,40467.47,USD,AP,Open
+2053da42,"Henderson, Ramirez and Lewis",2025-06-27,2025-07-27,657.44,USD,AP,Paid
+e7a37e81,"Mcclain, Miller and Henderson",2025-06-29,2025-09-27,47614.08,USD,AP,Open
+c7fee39f,Williams and Sons,2025-12-06,2026-02-04,20891.47,USD,AP,Open
+6c6fa611,"Adams, Zuniga and Wong",2025-07-04,2025-07-19,11325.78,USD,AP,Open
+14f7ce8d,"Gardner, Robinson and Lawrence",2025-12-06,2025-12-06,31946.19,USD,AP,Disputed
+3602f8ac,"Mcclain, Miller and Henderson",2025-11-09,2026-01-08,6813.02,USD,AP,Paid
+a2b5b498,"Mcclain, Miller and Henderson",2025-09-14,2025-09-29,19657.19,USD,AP,Open
